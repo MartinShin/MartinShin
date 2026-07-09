@@ -3,7 +3,7 @@
 데이터, 언론, 사람에 관한 작은 웹 서비스들을 만듭니다.
 대부분 공개 데이터를 모아 보기 좋게 정리한 것들입니다.
 
-**👉 전체 프로젝트 모음: [martinshin.vercel.app](https://martinshin.vercel.app)**
+**👉 전체 프로젝트 모음: [hocheolshin.vercel.app](https://hocheolshin.vercel.app)**
 
 ## 프로젝트
 
