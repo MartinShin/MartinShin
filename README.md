@@ -14,3 +14,4 @@
 | [한국부자순위](https://chaebol-watch.vercel.app) | DART 공시 기반 개인별 상장주식 보유 평가액 순위 |
 | [이타적 인간 게임](https://altruist-game.vercel.app) | 서울대 교양수업 '이타적 인간과 이기적 인간의 이해' 실험 게임 |
 | [한국영화 영향력 지도](https://korean-film-influence-map.vercel.app) | 오마주와 감독의 직접 언급, 평론의 계보로 탐색하는 한국영화 영향력 지도 |
+| [홀덤 아레나](https://holdem-arena.vercel.app) | AI 플레이어와 겨루는 노리밋 텍사스 홀덤 싯앤고 |
