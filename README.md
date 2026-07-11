@@ -15,3 +15,4 @@
 | [이타적 인간 게임](https://altruist-game.vercel.app) | 서울대 교양수업 '이타적 인간과 이기적 인간의 이해' 실험 게임 |
 | [한국영화 영향력 지도](https://korean-film-influence-map.vercel.app) | 오마주와 감독의 직접 언급, 평론의 계보로 탐색하는 한국영화 영향력 지도 |
 | [홀덤 아레나](https://holdem-arena.vercel.app) | AI 플레이어와 겨루는 노리밋 텍사스 홀덤 싯앤고 |
+| [?⑤씪??由щ뱾](https://www.shinhocheol.com/riddle) | ?띿뒪??湲곕컲 諛⑺깉異??쇱쫹. ?뺣떟??李얠븘???④꺼吏??ㅼ쓬 ?섏씠吏濡??섏뼱媛꾨떎 |
