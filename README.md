@@ -18,3 +18,4 @@
 | [온라인 리들](https://www.shinhocheol.com/riddle) | 텍스트 기반 방탈출 퍼즐. 정답을 찾아야 숨겨진 다음 페이지로 넘어간다 |
 | [스카이스크래퍼](https://www.shinhocheol.com/skyscrapers) | 테두리 숫자만큼 빌딩이 보이게 채우는 논리 퍼즐. 4×4~9×9, 유일해 보장 |
 | [선택의 역설](https://www.shinhocheol.com/paradox) | 알레의 역설과 엘즈버그의 역설을 직접 체험하는 의사결정 게임 |
+| [CDJS](https://www.shinhocheol.com/cdjs) | 경제철학을 공부하는 학부생 모임의 회원제 커뮤니티 |
