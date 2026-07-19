@@ -16,6 +16,7 @@
 | [한국영화 영향력 지도](https://www.shinhocheol.com/cinema) | 감독의 직접 언급·평론의 계보를 모아 인용 네트워크로 매기는 한국영화 순위 |
 | [홀덤 아레나](https://holdem-arena.vercel.app) | AI 플레이어와 겨루는 노리밋 텍사스 홀덤 싯앤고 |
 | [온라인 리들](https://www.shinhocheol.com/riddle) | 텍스트 기반 방탈출 퍼즐. 정답을 찾아야 숨겨진 다음 페이지로 넘어간다 |
+| [리븐워스 사건](https://leavenworth-case.flyingmarco.chatgpt.site/) | 증언과 단서를 대조해 범인을 추리하는 자유 심문 미스터리 게임 |
 | [스카이스크래퍼](https://www.shinhocheol.com/skyscrapers) | 테두리 숫자만큼 빌딩이 보이게 채우는 논리 퍼즐. 4×4~9×9, 유일해 보장 |
 | [선택의 역설](https://www.shinhocheol.com/paradox) | 알레의 역설과 엘즈버그의 역설을 직접 체험하는 의사결정 게임 |
 | [CDJS](https://www.shinhocheol.com/cdjs) | 경제철학을 공부하는 학부생 모임의 회원제 커뮤니티 |
